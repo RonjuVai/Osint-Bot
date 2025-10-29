@@ -14,7 +14,7 @@ import json
 load_dotenv()
 
 # Bot configuration
-BOT_TOKEN = os.getenv('BOT_TOKEN', '7985992151:AAF64Ofq_-UeE84MoBF8CHNwUS1UrJeeLXc')
+BOT_TOKEN = os.getenv('BOT_TOKEN', '8366535001:AAFyVWNNRATsI_XqIUiT_Qqa-PAjGcVAyDU')
 FORCE_JOIN_CHANNEL = "@ronjumodz"
 ADMIN_USER_ID = 7755338110
 AADHAAR_API_BASE_URL = "https://happy-ration-info.vercel.app/fetch?key=paidchx&aadhaar="
