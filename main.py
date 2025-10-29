@@ -14,7 +14,7 @@ import json
 load_dotenv()
 
 # Bot configuration
-BOT_TOKEN = os.getenv('7985992151:AAF64Ofq_-UeE84MoBF8CHNwUS1UrJeeLXc')
+BOT_TOKEN = os.getenv('')
 FORCE_JOIN_CHANNEL = "@ronjumodz"  # আপনার channel username দিয়ে change করুন
 ADMIN_USER_ID = 7755338110  # আপনার user ID
 API_BASE_URL = "https://happy-ration-info.vercel.app/fetch?key=paidchx&aadhaar="
